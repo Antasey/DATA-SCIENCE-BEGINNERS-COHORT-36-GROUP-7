@@ -23,3 +23,9 @@ Only run `04_gui_present.ipynb` (loads saved model + present.csv). No need to re
 
 ## Git
 Branch per notebook: `cleaning`, `train-eda`, `test-eval`, `gui-present`. Merge to `main` in that order. Freeze `main` once 04 runs clean end-to-end.
+
+## Try to work on your part
+the files in 'main' are there only for reference on what you should do in your own notebooks 
+
+good luck
+
