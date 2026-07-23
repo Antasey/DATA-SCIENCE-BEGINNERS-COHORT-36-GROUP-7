@@ -11,7 +11,7 @@ Welcome to the Group 7 coders and collaborators hub! Follow the guidelines below
 ### 1. Open the Notebook
 Click the badge below to open our model notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/)](https://google.com/Antasey/DATA-SCIENCE-BEGINNERS-COHORT-36-GROUP-7/blob/main/GROUP_7_MODEL.ipynb)
+[![Open In Colab](https://colab.research.google.com/)](https://github.com/Antasey/DATA-SCIENCE-BEGINNERS-COHORT-36-GROUP-7/blob/main/GROUP_7_MODEL.ipynb)
 
 *(Note: Ensure you are logged into the Google account associated with your GitHub access.)*
 
